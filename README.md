@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+Hi my name is Effie...I am a computer and art lover. I don't know how this is possible...
